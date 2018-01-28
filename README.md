@@ -1,3 +1,9 @@
+We Connect the Dots - Code-A-Thon Darby PA
+
+See [the documentation](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages) for more info about pushing compiled React pages to GitHub Pages. This site is published to [https://don.github.io/wctd](https://don.github.io/wctd).
+
+https://www.yammer.com/creatingsteam/threads/1021803804
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
